@@ -5,5 +5,6 @@ It has all the components which are present in youtube UI.Live demo can be check
 
 https://harsh3054youtubeclone.netlify.app/
 
+![Screenshot (226)](https://github.com/Harsh3054/Youtube-Clone/assets/129618573/b57ab8b3-0d60-4b46-bbe6-9624d350ad37)
 
-![Screenshot (226)](https://github.com/Harsh3054/Youtube-Clone/assets/129618573/f729488b-6e5c-4574-bf32-8ff02c8575f6)
+
